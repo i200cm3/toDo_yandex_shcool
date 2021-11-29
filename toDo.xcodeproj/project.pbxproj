@@ -16,6 +16,7 @@
 		FEF7E4EE2751408100287473 /* toDoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF7E4ED2751408100287473 /* toDoTests.swift */; };
 		FEF7E4F82751408100287473 /* toDoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF7E4F72751408100287473 /* toDoUITests.swift */; };
 		FEF7E4FA2751408100287473 /* toDoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF7E4F92751408100287473 /* toDoUITestsLaunchTests.swift */; };
+		FEF7E507275140A600287473 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF7E506275140A600287473 /* ToDo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FEF7E4F32751408100287473 /* toDoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = toDoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEF7E4F72751408100287473 /* toDoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toDoUITests.swift; sourceTree = "<group>"; };
 		FEF7E4F92751408100287473 /* toDoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toDoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FEF7E506275140A600287473 /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				FEF7E4D62751408000287473 /* AppDelegate.swift */,
 				FEF7E4D82751408000287473 /* SceneDelegate.swift */,
 				FEF7E4DA2751408000287473 /* ViewController.swift */,
+				FEF7E506275140A600287473 /* ToDo.swift */,
 				FEF7E4DC2751408000287473 /* Main.storyboard */,
 				FEF7E4DF2751408100287473 /* Assets.xcassets */,
 				FEF7E4E12751408100287473 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				FEF7E4DB2751408000287473 /* ViewController.swift in Sources */,
 				FEF7E4D72751408000287473 /* AppDelegate.swift in Sources */,
 				FEF7E4D92751408000287473 /* SceneDelegate.swift in Sources */,
+				FEF7E507275140A600287473 /* ToDo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
